@@ -1,0 +1,10 @@
+id,code,name,price,stock,shop_id
+1,001,sandle,100.0,100,1
+2,002,shoe,150.0,100,2
+3,003,slipper,250.0,100,1
+4,004,nagra,420.0,100,2
+5,005,School kades,550.0,50,1
+6,006,highhil,220.0,60,1
+7,007,Red Formal Shoe,700.0,60,1
+8,009,Step Slipper,120.0,80,2
+9,asdf,asdf,1.0,1,7
